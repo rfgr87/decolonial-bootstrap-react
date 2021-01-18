@@ -86,7 +86,7 @@ export default function ProfilePage4(props) {
                     <img src={profile} alt="..." className={imageClasses} />
                   </div>
                   <div className={classes.name}>
-                    <h3 className={classes.title}>Daniel Flores Días</h3>
+                    <h3 className={classes.title}>Pedro Emanuel Franco Fraticelli</h3>
                     <Button justIcon link className={classes.margin5}>
                       <i className={"fab fa-twitter"} />
                     </Button>
