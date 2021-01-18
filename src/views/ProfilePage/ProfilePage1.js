@@ -117,7 +117,7 @@ export default function ProfilePage1(props) {
         <div style={{ 
           position: "absolute",
           backgroundImage: `url(${image3})`,
-          height: "3000px",
+          height: "1900px",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           width: "100%",
