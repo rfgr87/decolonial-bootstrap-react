@@ -57,10 +57,12 @@ export default function ProfilePage1(props) {
     <div style={{ 
       position: "absolute",
       backgroundImage: `url(${image3})`,
-      height: "4200px",
+      height: "1900px",
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       width: "100%",
+      padddingRigth: "45px",
+      paddingBottom: "200px",
       margin: 0,
       padding: 0}}>
        <Header
@@ -112,7 +114,17 @@ export default function ProfilePage1(props) {
             
           </div>
         </div>
-        <div>
+        <div style={{ 
+          position: "absolute",
+          backgroundImage: `url(${image3})`,
+          height: "3000px",
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          width: "100%",
+          padddingRigth: "45px",
+          paddingBottom: "200px",
+          margin: 0,
+          padding: 0}}>
       <GridContainer justify="center">
               <GridItem  className={classes.navWrapper}>
                 <NavPills
