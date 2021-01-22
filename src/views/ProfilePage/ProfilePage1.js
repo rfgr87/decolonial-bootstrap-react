@@ -22,7 +22,7 @@ import Parallax2 from "components/Parallax/Parallax2.js";
 import image1 from "assets/img/decolonial-fotos/foto-piezaroy1.jpg";
 
 import image2 from "assets/img/decolonial-fotos/foto-decolonial1.jpg";
-import profile from "assets/img/decolonial-fotos/foto-bio.jpg";
+import profile from "assets/img/decolonial-fotos/foto-roy1.png";
 import image3 from "assets/img/decolonial-fotos/foto-piezaroy1.jpg";
 
 import studio1 from "assets/img/examples/studio-1.jpg";

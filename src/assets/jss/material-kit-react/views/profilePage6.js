@@ -10,7 +10,7 @@ const profilePageStyle = {
       maxWidth: "300px",
       width: "100%",
       margin: "0 auto",
-      transform: "translate3d(0, 20%, 0)"
+      transform: "translate3d(0, 10%, 0)"
     }
   },
   description: {
@@ -20,7 +20,7 @@ const profilePageStyle = {
     textAlign: "left !important"
   },
   name: {
-    marginTop: "-140px"
+    marginTop: "-200px"
   },
   ...imagesStyle,
   main: {
@@ -29,7 +29,7 @@ const profilePageStyle = {
     zIndex: "3"
   },
   mainRaised: {
-    margin: "200px 30px 0px",
+    margin: "200px 120px 0px",
     borderRadius: "6px",
     boxShadow:
       "0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2)"
@@ -38,7 +38,7 @@ const profilePageStyle = {
     ...title,
     display: "inline-block",
     position: "relative",
-    marginTop: "300px",
+    marginTop: "250px",
     minHeight: "32px",
     textDecoration: "none"
   },

@@ -16,6 +16,8 @@ import ProfilePage3 from "views/ProfilePage/ProfilePage3.js";
 import ProfilePage4 from "views/ProfilePage/ProfilePage4.js";
 import ProfilePage5 from "views/ProfilePage/ProfilePage5.js";
 import ProfilePage6 from "views/ProfilePage/ProfilePage6.js";
+import ProfilePage7 from "views/ProfilePage/ProfilePage7.js";
+
 
 import LoginPage from "views/LoginPage/LoginPage.js";
 // import Composer1 from "views/ProfilePage/ProfilePage.js";
@@ -28,6 +30,7 @@ ReactDOM.render(
     <Switch>
        <Route path="/releases" component={Releases} />
       <Route path="/manifesto" component={Manifesto} />
+      <Route path='/byronmunoz' component = {ProfilePage7}/>
       <Route path='/pedrofrancofraticelli' component = {ProfilePage6}/>
       <Route path='/diegovillasenordecortina' component={ProfilePage3}/>
       <Route path='/renzofilinich' component={ProfilePage2}/>
