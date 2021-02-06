@@ -147,6 +147,38 @@ function Releases(props) {
     marginLeft:  "0%"}} 
     src="https://bandcamp.com/EmbeddedPlayer/album=3007672718/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://decolonialrecords.bandcamp.com/album/06-01-21-improvisaci-n-con-cuatro-puertorrique-o">[06-01-21] Improvisación con Cuatro Puertorriqueño by Roy F Guzmán</a></iframe>
    
+   <iframe style={{
+    display: "inline-block",
+    position: "relative",
+    border: 0, 
+    width: "300px", 
+    height: "420px", 
+    marginTop: "0%",
+    marginLeft:  "0%"}} 
+    src="https://bandcamp.com/EmbeddedPlayer/album=834541099/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://decolonialrecords.bandcamp.com/album/propaganda-y-violencia">Propaganda y Violencia by Pedro Franco Fraticelli</a></iframe>   
+
+
+<iframe style={{
+    display: "inline-block",
+    position: "relative",
+    border: 0, 
+    width: "300px", 
+    height: "420px", 
+    marginTop: "0%",
+    marginLeft:  "0%"}} 
+    src="https://bandcamp.com/EmbeddedPlayer/album=1008597476/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://decolonialrecords.bandcamp.com/album/boca-del-monte">Boca del Monte by Byron Muñoz</a></iframe>
+
+
+<iframe style={{
+    display: "inline-block",
+    position: "relative",
+    border: 0, 
+    width: "300px", 
+    height: "420px", 
+    marginTop: "0%",
+    marginLeft:  "0%"}} 
+    src="https://bandcamp.com/EmbeddedPlayer/album=231442692/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://decolonialrecords.bandcamp.com/album/realidades-improbables">Realidades Improbables by Matías Fernández Rosales</a></iframe>
+
     </GridItem>      
     </GridContainer>
     </GridItem>
