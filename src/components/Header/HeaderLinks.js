@@ -68,7 +68,13 @@ export default function HeaderLinks(props) {
           </Link>,
           <Link to="/byronmunoz" className={classes.dropdownLink}>
           Byron Muñoz
-        </Link>
+        </Link>,
+         <Link to="/leonelsegovia" className={classes.dropdownLink}>
+         Leonel Segovia
+       </Link>,
+       <Link to="/matiasfernandez" className={classes.dropdownLink}>
+       Matías Fernández Rosales
+     </Link>
           ]}
         />
       </ListItem>

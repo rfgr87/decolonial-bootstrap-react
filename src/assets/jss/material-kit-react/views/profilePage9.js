@@ -26,7 +26,7 @@ const profilePageStyle = {
   main: {
     background: "white",
     position: "relative",
-    zIndex: "3"
+    zIndex: "3",
   },
   mainRaised: {
     margin: "200px 10% 0px",
